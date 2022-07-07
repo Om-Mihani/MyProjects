@@ -8,4 +8,4 @@ In this project, we were given a thereotical problem statement related to the th
 
 4) Data Science Course Project: In this project, we have applied data science techniques to predict IPL scores.
 
-5) 
+5) Independent OpenFOAM project 1: This was an independent project from an online course on OpenFOAM. See the problem statement inside to know more.
