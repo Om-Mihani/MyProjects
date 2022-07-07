@@ -6,4 +6,6 @@ In this project, we were given a thereotical problem statement related to the th
 
 3) Transport Phenomena Course project: In this project, we were given a research paper to study and give a review on. The original paper can be found here: https://doi.org/10.1063/1.3250858. We also posted the presentation on youtube. The link for the same is: https://youtu.be/RotCXe4B5Ic 
 
-4) 
+4) Data Science Course Project: In this project, we have applied data science techniques to predict IPL scores.
+
+5) 
