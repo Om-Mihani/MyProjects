@@ -12,6 +12,8 @@ In this project, we were given a thereotical problem statement related to the th
 
 6) OpenFOAM Course Project: This was a case study done using OpenFOAM where some of the results were validated against a research paper while some new cases were simulated and observations were reported. detailed case study can be found here: https://cfd.fossee.in/case-study-project/case-study-run/212 
 
-7) NeuroClone Course project: In this project, our team used Deep learning concepts to make a "Thought controlled human hand". The details and resources of the project can be found here: https://github.com/SiddhiBG/NeuroClone-Team-Inception 
+7) NeuroClone Course project: In this project, our team used Deep learning concepts to make a "Thought controlled human hand". The details and resources of the project can be found here: https://github.com/SiddhiBG/NeuroClone-Team-Inception
+   
+8) Extraction of CO2 from Flue gas: This was a simulation-based project in which the target was to optimize the solvent used for extraction of CO2 from flue gas via chemical absorption. 
 
-8) Unsee and Sci-fi Love: 2 Short stories written by me
+9) Unsee and Sci-fi Love: 2 Short stories written by me
