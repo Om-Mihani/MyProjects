@@ -16,4 +16,18 @@ In this project, we were given a thereotical problem statement related to the th
    
 8) Extraction of CO2 from Flue gas: This was a simulation-based project in which the target was to optimize the solvent used for extraction of CO2 from flue gas via chemical absorption. 
 
-9) Unsee and Sci-fi Love: 2 Short stories written by me
+9) Unsee, Invisible Light and Sci-fi Love: 3 Short stories written by me
+
+10) Carbon Disulphide Production: Simulation-based project where the target was copying the actual process and then optimizing it further.
+
+11) Dry Reforming of Methane: This project critically evaluates novel microkinetic and density functional theory models for dry reforming of methane, highlighting their strengths and weaknesses.
+
+12) Biosensor for Prostate cancer detection: This project developed a novel, cost-effective biosensor for real-time prostate cancer monitoring by carefully selecting polymer, adhesive, and biomolecule components based on extensive literature research.
+
+13) Genomic Analysis of M. Tuberculosis Strains: This project employed whole genome sequencing to analyze the genetic diversity of M. tuberculosis strains, shedding light on their evolutionary relationships and potential implications for disease treatment and prevention.
+
+14) Conceptual Design of TBA plant: This project developed a conceptual design for a tert-butyl alcohol (TBA) plant, optimizing process parameters, equipment, and environmental impact using simulation and theoretical analysis.
+
+15) Hydrogen Hydrates: This project employed molecular simulations to investigate the feasibility of ice as a hydrogen carrier, using Towhee software and a quantum-corrected classical potential.
+
+16) Calibration of Powdered drugs: This project optimized granular simulations of powdered drugs in ROCKY using coarse-graining and Python scripts, developing a faster calibration method. 
