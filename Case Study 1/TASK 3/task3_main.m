@@ -69,4 +69,3 @@ for i = y2
 end
 
 %% Task 3.2
-

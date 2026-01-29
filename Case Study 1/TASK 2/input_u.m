@@ -3,7 +3,7 @@ function u = input_u(t, p)
         % Constant input
         u = 1;
     else
-        % Sinusoidal input with frequency in Hz
-        u = 1 + sin(2*pi*p.freq*t);
+        % Sinusoidal input with frequency
+        u = 1 + sin(p.freq*t);
     end
 end
